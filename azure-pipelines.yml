@@ -24,4 +24,4 @@ steps:
   inputs:
      command: publish
      publishRegistry: useFeed
-     publishFeed: 'b44f8a44-77e9-4f86-ba02-da7456a69cfc/de5e291f-5855-4792-8d85-71a41aec4ea9'
+     publishFeed: infrastructure/UCP-NPM-Packages
